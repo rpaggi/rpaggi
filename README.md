@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there, My name is Ronaldo Paggi! 👋
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rpaggi)](https://twitter.com/rpaggi)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,php,java,laravel,spring,vue,mysql,redis,docker,git,idea,vscode,vim,stackoverflow)](https://skillicons.dev)
 
