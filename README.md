@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,php,java,laravel,spring,vue,mysql,redis,docker,git,idea,vscode,vim,stackoverflow)](https://skillicons.dev)
 
-🔭 I'm working with software development since 2010, I've worked with varios languages such as: Cobol, PHP, Java and Javascript(in front-end). I know some fontends and backends frameworks such as: Laravel❤️, VueJS❤️, SpringBoot and ReactJS.
+🔭 I'm working with software development since 2010, I've worked with many languages such as: Cobol🦖, PHP, Java☕️ and Javascript(in front-end). I know some fontends and backends frameworks such as: Laravel❤️, VueJS❤️, SpringBoot and ReactJS.
 
 🌱 I'm currently learning more abourt Devops, studying about k8s and AWS.
 
