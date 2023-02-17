@@ -5,7 +5,7 @@
 
 🔭 I'm working with software development since 2010, I've worked with many languages such as: Cobol🦖, PHP, Java☕️ and Javascript(in front-end). I know some fontends and backends frameworks such as: Laravel❤️, VueJS❤️, SpringBoot and ReactJS.
 
-🌱 I'm currently learning more abourt Devops, studying about k8s and AWS.
+🌱 I'm currently learning more about Devops, studying about k8s and AWS.
 
 <!--
 **rpaggi/rpaggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
